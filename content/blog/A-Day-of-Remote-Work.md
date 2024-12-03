@@ -3,7 +3,7 @@ title: 远程工作者的一天
 date: 2019-06-09T16:30:26.322Z
 ---
 
-![](/assets/blog/A-Day-of-Remote-Work/remote-work.jpg)
+![remote-work.jpg](https://github.com/metrue/tinymind-blog/blob/main/assets/images/2024-12-03/1733256504772.jpg?raw=true)
 
 很多人喜欢远程工作, 也有很多人多反对远程工作, 远程工作意味着:
 
