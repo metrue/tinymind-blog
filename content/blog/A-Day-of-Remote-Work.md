@@ -1,6 +1,6 @@
 ---
-title: '远程工作者的一天'
-date: '2019-06-09T16:30:26.322Z'
+title: 远程工作者的一天
+date: 2019-06-09T16:30:26.322Z
 ---
 
 ![](/assets/blog/A-Day-of-Remote-Work/remote-work.jpg)
