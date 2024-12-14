@@ -1,6 +1,6 @@
 ---
 title: Nullability in GraphQL Schema Design
-pubDate: 2022-11-03T05:35:07.322Z
+date: 2022-11-03T05:35:07.322Z
 ---
 
 ### Background
